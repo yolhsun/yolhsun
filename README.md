@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 wait for it**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/e7e04b0354be7778ed094b8fc8dd4877/a7a778ac0f443ac6-5c/s540x810/7961e8bdbc78364000a305ddccaf458e9abc2923.gifv">
 
 
 <br>
